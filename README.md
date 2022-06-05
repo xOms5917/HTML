@@ -1,5 +1,4 @@
-<!doctype html>
- <html>
+<html>
   <head>
    <title>Example</title>
   </head>
@@ -7,4 +6,4 @@
    <h1>This is an example</h1>
    <p>I'm serious that's an example</p>
   </body>
- </html>
+</html>
