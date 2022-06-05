@@ -8,6 +8,6 @@
       <li><a href="www.Youtube.com" target="_blank">Youtube</a></li>
       <li><a href="www.twitter.com" target="_blank">Twitter</a></li>
   </ul>
-  <a href="barcelonateam.jpg download="barca.jpg"></a>
+  <a href="barcelonateam.jpg download="barca.jpg">Our Team</a>
  </body>
 </html>
