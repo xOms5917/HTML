@@ -61,3 +61,7 @@ confetti.render();
   p.style.transform = "translate(-50%, -50%)";
   document.body.appendChild(p);
 });
+
+function clickevent() {
+   alert("Yeeeey Lvy toooo <3")
+}
